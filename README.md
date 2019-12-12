@@ -1,4 +1,4 @@
-# nd188-2019-fall-turkic
+# udacity-nd188-201911
 Turkic Study Group for Udacity-Bertelsmann AI
 
 ## Languages
